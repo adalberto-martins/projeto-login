@@ -13,3 +13,7 @@ Lilás: #5f2c82
     --cor3: #000000; 
 }
 
+* {
+    padding: 0px;
+    margin: 0px;
+}
