@@ -99,6 +99,11 @@ div.campo > input {
     transform: translateY(-12px);
 }
 
+div.campo > input:hover{
+    opacity: 0.3;
+    transition: color 0.5s;
+}
+
 div.campo > input:focus-within {
     background-color: #ffffff;
 }
